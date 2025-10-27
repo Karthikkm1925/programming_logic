@@ -1,4 +1,4 @@
-package nubers;
+package numbers;
 
 public class IncreamentDecreament {
 	public static void main(String[] args) {
