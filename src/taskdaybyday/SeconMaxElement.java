@@ -1,6 +1,6 @@
 package taskdaybyday;
 
-public class seconMaxElement {
+public class SeconMaxElement {
 
 	public static void main(String[] args) {
 		
